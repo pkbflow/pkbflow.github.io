@@ -5,7 +5,7 @@
 # theme = "blowfish" # UNCOMMENT THIS LINE
 # baseURL = "https://your_domain.com/"
 theme = "blowfish"
-baseURL = "https://pkb7417.github.io/"
+baseURL = "https://pkbflow.github.io/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
