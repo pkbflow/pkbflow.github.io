@@ -10,6 +10,10 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -28,7 +32,6 @@ jobs:
 
       - name: Build
         run: hugo --minify
-	touch ./public/.nojekyll	
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -42,11 +45,6 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-       # 1. Pages 환경을 설정하고 OIDC 인증을 처리합니다. (추가)
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5 
-
-      # 2. 배포를 진행합니다.
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
