@@ -1,6 +1,6 @@
 ---
 
-title: "PKB FLOW"
+title: "PkbFlow"
 
 description: "Go와 백엔드 개발을 공부하는 개발자의 블로그"
 layout: "page"

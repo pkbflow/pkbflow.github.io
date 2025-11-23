@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>블로그 on Blowfish</title>
+    <title>블로그 on pkbFlow</title>
     <link>http://localhost:1313/tags/%EB%B8%94%EB%A1%9C%EA%B7%B8/</link>
-    <description>Recent content in 블로그 on Blowfish</description>
+    <description>Recent content in 블로그 on pkbFlow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>

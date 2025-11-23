@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>백엔드 개발 블로그 on Blowfish</title>
+    <title>PkbFlow on pkbFlow</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in 백엔드 개발 블로그 on Blowfish</description>
+    <description>Recent content in PkbFlow on pkbFlow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Sat, 22 Nov 2025 10:00:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Nov 2025 10:00:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>두 번째 글</title>
+      <link>http://localhost:1313/posts/second-post/</link>
+      <pubDate>Sun, 23 Nov 2025 10:00:00 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/second-post/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/second-post/feature.jpg" />
+    </item>
     
     <item>
       <title>내 첫 블로그 글</title>
@@ -17,16 +27,6 @@
       <guid>http://localhost:1313/posts/first-post/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/first-post/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>두 번째 글</title>
-      <link>http://localhost:1313/posts/second-post/</link>
-      <pubDate>Sat, 22 Nov 2025 10:00:00 +0900</pubDate>
-      
-      <guid>http://localhost:1313/posts/second-post/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/second-post/feature.jpg" />
     </item>
     
   </channel>
