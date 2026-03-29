@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>PkbFlow on pkbFlow</title>
+    <title>PkbFlow</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in PkbFlow on pkbFlow</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content on PkbFlow</description>
+    <image>
+      <title>PkbFlow</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
-    <lastBuildDate>Sun, 23 Nov 2025 10:00:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 30 Mar 2026 01:49:21 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>두 번째 글</title>
-      <link>http://localhost:1313/posts/second-post/</link>
-      <pubDate>Sun, 23 Nov 2025 10:00:00 +0900</pubDate>
-      
-      <guid>http://localhost:1313/posts/second-post/</guid>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 30 Mar 2026 01:49:21 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/second-post/feature.jpg" />
     </item>
-    
     <item>
-      <title>내 첫 블로그 글</title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Sat, 22 Nov 2025 10:00:00 +0900</pubDate>
-      
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/first-post/feature.jpg" />
+      <title>example post</title>
+      <link>http://localhost:1313/posts/example-post/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/example-post/</guid>
+      <description>Desc Text.</description>
     </item>
-    
   </channel>
 </rss>
