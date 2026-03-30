@@ -1,5 +1,5 @@
 baseURL: "https://pkbflow.github.io/"
-title: PkbFlow
+title: "PkbFlow | Backend Study Log"
 pagination:
   pagerSize: 5
 theme: PaperMod
@@ -79,15 +79,19 @@ params:
         url: tags
 
   # home-info mode
+  # homeInfoParams:
+  #   Title: "Hi there 👋"
+  #   Content: Welcome to my blog
   homeInfoParams:
-    Title: "Hi there 👋"
-    Content: Welcome to my blog
+    Title: "👋 Backend Study Log"
+    Content: SQL · Kubernetes · 코딩테스트를 기록하는 개발 블로그입니다.  
+           공부한 내용을 이해 중심으로 정리합니다.
 
   socialIcons:
     - name: x
       url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    # - name: stackoverflow
+    #   url: "https://stackoverflow.com"
     - name: github
       url: "https://github.com/"
 
@@ -135,10 +139,10 @@ menu:
       name: search
       url: /search/
       weight: 30
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 40
+    # - identifier: example
+    #   name: example.org
+    #   url: https://example.org
+    #   weight: 40
     # - identifier: about
     #   name: 소개
     #   url: /about/
