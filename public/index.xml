@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PkbFlow | Backend Study Log</title>
-    <link>http://localhost:1313/</link>
+    <link>https://pkbflow.github.io/</link>
     <description>Recent content on PkbFlow | Backend Study Log</description>
     <image>
       <title>PkbFlow | Backend Study Log</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://pkbflow.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pkbflow.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 30 Mar 2026 18:48:13 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pkbflow.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[K8s] Pod 개념 정리</title>
-      <link>http://localhost:1313/posts/kubernetes/pod/</link>
+      <link>https://pkbflow.github.io/posts/kubernetes/pod/</link>
       <pubDate>Mon, 30 Mar 2026 18:48:13 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kubernetes/pod/</guid>
+      <guid>https://pkbflow.github.io/posts/kubernetes/pod/</guid>
       <description>쿠버네티스 Pod의 개념과 구조, 동작 방식 정리</description>
     </item>
     <item>
       <title>[Kafka] Kafka 기본 개념</title>
-      <link>http://localhost:1313/posts/dev/kafka/kafka-intro/</link>
+      <link>https://pkbflow.github.io/posts/dev/kafka/kafka-intro/</link>
       <pubDate>Mon, 30 Mar 2026 18:48:13 +0900</pubDate>
-      <guid>http://localhost:1313/posts/dev/kafka/kafka-intro/</guid>
+      <guid>https://pkbflow.github.io/posts/dev/kafka/kafka-intro/</guid>
       <description>Kafka의 기본 개념과 구조 정리</description>
     </item>
     <item>
       <title>[PS] 프로그래머스 - 타겟 넘버</title>
-      <link>http://localhost:1313/posts/coding-test/dfs/</link>
+      <link>https://pkbflow.github.io/posts/coding-test/dfs/</link>
       <pubDate>Mon, 30 Mar 2026 18:47:46 +0900</pubDate>
-      <guid>http://localhost:1313/posts/coding-test/dfs/</guid>
+      <guid>https://pkbflow.github.io/posts/coding-test/dfs/</guid>
       <description>DFS로 푸는 타겟 넘버 문제 풀이</description>
     </item>
     <item>
       <title>[SQL] JOIN 완전 정리</title>
-      <link>http://localhost:1313/posts/sql/join/</link>
+      <link>https://pkbflow.github.io/posts/sql/join/</link>
       <pubDate>Mon, 30 Mar 2026 18:47:46 +0900</pubDate>
-      <guid>http://localhost:1313/posts/sql/join/</guid>
+      <guid>https://pkbflow.github.io/posts/sql/join/</guid>
       <description>SQL JOIN 개념부터 종류, 예제까지 정리</description>
     </item>
     <item>
       <title>기술 블로그 시작 - SQL, K8s, 코딩테스트 기록</title>
-      <link>http://localhost:1313/posts/about/</link>
+      <link>https://pkbflow.github.io/posts/about/</link>
       <pubDate>Sun, 29 Mar 2026 21:50:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/about/</guid>
+      <guid>https://pkbflow.github.io/posts/about/</guid>
       <description>기술 블로그를 시작하며 방향과 목표를 정리</description>
     </item>
   </channel>

@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on PkbFlow | Backend Study Log</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://pkbflow.github.io/categories/</link>
     <description>Recent content in Categories on PkbFlow | Backend Study Log</description>
     <image>
       <title>PkbFlow | Backend Study Log</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://pkbflow.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pkbflow.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 30 Mar 2026 18:48:13 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pkbflow.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dev</title>
-      <link>http://localhost:1313/categories/dev/</link>
+      <link>https://pkbflow.github.io/categories/dev/</link>
       <pubDate>Mon, 30 Mar 2026 18:48:13 +0900</pubDate>
-      <guid>http://localhost:1313/categories/dev/</guid>
+      <guid>https://pkbflow.github.io/categories/dev/</guid>
       <description></description>
     </item>
     <item>
       <title>Kubernetes</title>
-      <link>http://localhost:1313/categories/kubernetes/</link>
+      <link>https://pkbflow.github.io/categories/kubernetes/</link>
       <pubDate>Mon, 30 Mar 2026 18:48:13 +0900</pubDate>
-      <guid>http://localhost:1313/categories/kubernetes/</guid>
+      <guid>https://pkbflow.github.io/categories/kubernetes/</guid>
       <description></description>
     </item>
     <item>
       <title>Coding-Test</title>
-      <link>http://localhost:1313/categories/coding-test/</link>
+      <link>https://pkbflow.github.io/categories/coding-test/</link>
       <pubDate>Mon, 30 Mar 2026 18:47:46 +0900</pubDate>
-      <guid>http://localhost:1313/categories/coding-test/</guid>
+      <guid>https://pkbflow.github.io/categories/coding-test/</guid>
       <description></description>
     </item>
     <item>
       <title>Sql</title>
-      <link>http://localhost:1313/categories/sql/</link>
+      <link>https://pkbflow.github.io/categories/sql/</link>
       <pubDate>Mon, 30 Mar 2026 18:47:46 +0900</pubDate>
-      <guid>http://localhost:1313/categories/sql/</guid>
+      <guid>https://pkbflow.github.io/categories/sql/</guid>
       <description></description>
     </item>
   </channel>

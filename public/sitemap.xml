@@ -2,87 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/kubernetes/pod/</loc>
+    <loc>https://pkbflow.github.io/posts/kubernetes/pod/</loc>
     <lastmod>2026-03-30T18:48:13+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/dev/kafka/kafka-intro/</loc>
+    <loc>https://pkbflow.github.io/posts/dev/kafka/kafka-intro/</loc>
     <lastmod>2026-03-30T18:48:13+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://pkbflow.github.io/categories/</loc>
     <lastmod>2026-03-30T18:48:13+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/container/</loc>
+    <loc>https://pkbflow.github.io/tags/container/</loc>
     <lastmod>2026-03-30T18:48:13+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/dev/</loc>
+    <loc>https://pkbflow.github.io/categories/dev/</loc>
     <lastmod>2026-03-30T18:48:13+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/k8s/</loc>
+    <loc>https://pkbflow.github.io/tags/k8s/</loc>
     <lastmod>2026-03-30T18:48:13+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/kafka/</loc>
+    <loc>https://pkbflow.github.io/tags/kafka/</loc>
     <lastmod>2026-03-30T18:48:13+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/kubernetes/</loc>
+    <loc>https://pkbflow.github.io/categories/kubernetes/</loc>
     <lastmod>2026-03-30T18:48:13+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/message-queue/</loc>
+    <loc>https://pkbflow.github.io/tags/message-queue/</loc>
     <lastmod>2026-03-30T18:48:13+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://pkbflow.github.io/</loc>
     <lastmod>2026-03-30T18:48:13+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pod/</loc>
+    <loc>https://pkbflow.github.io/tags/pod/</loc>
     <lastmod>2026-03-30T18:48:13+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://pkbflow.github.io/posts/</loc>
     <lastmod>2026-03-30T18:48:13+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/stream/</loc>
+    <loc>https://pkbflow.github.io/tags/stream/</loc>
     <lastmod>2026-03-30T18:48:13+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://pkbflow.github.io/tags/</loc>
     <lastmod>2026-03-30T18:48:13+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/coding-test/dfs/</loc>
+    <loc>https://pkbflow.github.io/posts/coding-test/dfs/</loc>
     <lastmod>2026-03-30T18:47:46+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sql/join/</loc>
+    <loc>https://pkbflow.github.io/posts/sql/join/</loc>
     <lastmod>2026-03-30T18:47:46+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/coding-test/</loc>
+    <loc>https://pkbflow.github.io/categories/coding-test/</loc>
     <lastmod>2026-03-30T18:47:46+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dfs/</loc>
+    <loc>https://pkbflow.github.io/tags/dfs/</loc>
     <lastmod>2026-03-30T18:47:46+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/inner-join/</loc>
+    <loc>https://pkbflow.github.io/tags/inner-join/</loc>
     <lastmod>2026-03-30T18:47:46+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/join/</loc>
+    <loc>https://pkbflow.github.io/tags/join/</loc>
     <lastmod>2026-03-30T18:47:46+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/left-join/</loc>
+    <loc>https://pkbflow.github.io/tags/left-join/</loc>
     <lastmod>2026-03-30T18:47:46+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/level2/</loc>
+    <loc>https://pkbflow.github.io/tags/level2/</loc>
     <lastmod>2026-03-30T18:47:46+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/programmers/</loc>
+    <loc>https://pkbflow.github.io/tags/programmers/</loc>
     <lastmod>2026-03-30T18:47:46+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/sql/</loc>
+    <loc>https://pkbflow.github.io/categories/sql/</loc>
     <lastmod>2026-03-30T18:47:46+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>https://pkbflow.github.io/tags/blog/</loc>
     <lastmod>2026-03-29T21:50:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/start/</loc>
+    <loc>https://pkbflow.github.io/tags/start/</loc>
     <lastmod>2026-03-29T21:50:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/about/</loc>
+    <loc>https://pkbflow.github.io/posts/about/</loc>
     <lastmod>2026-03-29T21:50:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://pkbflow.github.io/search/</loc>
   </url>
 </urlset>
