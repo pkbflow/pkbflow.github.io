@@ -16,7 +16,6 @@
     --code-block-bg: rgb(28, 29, 33);
     --code-bg: rgb(245, 245, 245);
     --border: rgb(238, 238, 238);
-
     color-scheme: light;
 }
 
@@ -30,7 +29,6 @@
     --code-block-bg: rgb(46, 46, 51);
     --code-bg: rgb(55, 56, 62);
     --border: rgb(51, 51, 51);
-
     color-scheme: dark;
 }
 
@@ -44,7 +42,6 @@
     --code-block-bg: rgb(98, 33, 33);
     --code-bg: rgb(255, 241, 241);
     --border: rgb(236, 188, 188);
-
     color-scheme: light;
 }
 
@@ -58,7 +55,6 @@
     --code-block-bg: rgb(30, 41, 59);
     --code-bg: rgb(241, 247, 255);
     --border: rgb(160, 194, 255);
-
     color-scheme: light;
 }
 
@@ -72,10 +68,7 @@
     background: var(--theme);
 }
 
-/* ------------------------------
-   header / logo / toggle layout
------------------------------- */
-
+/* header */
 .logo {
     display: flex;
     align-items: center;
@@ -88,83 +81,130 @@
 }
 
 .logo-switches {
-    display: inline-flex;
-    align-items: center;
-    margin-left: 14px; /* Home과 적당히 거리 두기 */
+    display: inline;
+    vertical-align: baseline;
+    margin-left: 0;
 }
 
-/* ------------------------------
-   theme toggle
------------------------------- */
+/* dropdown */
+.theme-dropdown {
+    position: relative;
+    margin-left: 14px;
+    display: inline;
+    vertical-align: baseline;
+}
 
+/* pagemod 기본 버튼 스타일 완전 초기화 */
 #theme-toggle {
-    border: 0;
-    background: transparent;
-    box-shadow: none;
+    background: transparent !important;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    -webkit-tap-highlight-color: transparent !important;
+    color: var(--secondary);
     padding: 0;
     margin: 0;
-    color: var(--primary);
     cursor: pointer;
-
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-
-    width: 20px;
-    height: 20px;
-    min-width: 20px;
+    display: inline;
+    gap: 3px;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    font-style: italic !important;
     line-height: 1;
-    vertical-align: middle;
+    vertical-align: baseline;
 }
 
+/* hover/focus/active — 색상만 */
 #theme-toggle:hover,
 #theme-toggle:focus,
-#theme-toggle:active {
-    background: transparent;
-    box-shadow: none;
-    outline: none;
-    transform: none;
+#theme-toggle:active,
+#theme-toggle:focus-visible,
+#theme-toggle:focus-within {
+    background: transparent !important;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    -webkit-tap-highlight-color: transparent !important;
+    color: var(--primary) !important;
 }
 
-#theme-icon {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 20px;
-    height: 20px;
-    line-height: 1;
+/* logo-switches 내부 버튼 기본 active/focus 스타일 제거 */
+.logo-switches button,
+.logo-switches button:active,
+.logo-switches button:focus,
+.logo-switches button:focus-visible {
+    background: transparent !important;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
 }
 
-#theme-icon svg {
+#theme-label {
+    display: inline;
+    vertical-align: baseline;
+}
+
+.theme-caret {
+    display: inline;
+    font-size: 7px;
+    font-style: normal;
+    vertical-align: baseline;
+}
+
+/* menu */
+.theme-menu {
+    display: none;
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    min-width: 96px;
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 6px 0;
+    margin: 0;
+    list-style: none;
+    z-index: 999;
+}
+
+.theme-menu li {
+    padding: 8px 12px;
+    color: var(--primary);
+    cursor: pointer;
+    white-space: nowrap;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.2;
+}
+
+.theme-menu li:hover {
+    background: var(--tertiary);
+}
+
+/* 선택된 항목 — 볼드 + 이탤릭 */
+.theme-menu li.active {
+    font-weight: 600;
+    font-style: italic;
+}
+
+.theme-dropdown.open .theme-menu {
     display: block;
-    width: 20px;
-    height: 20px;
-    stroke: currentColor;
-    fill: none;
 }
-
-/* ------------------------------
-   mobile
------------------------------- */
 
 @media (max-width: 768px) {
-    .logo-switches {
+    .theme-dropdown {
         margin-left: 10px;
     }
 
     #theme-toggle {
-        width: 18px;
-        height: 18px;
-        min-width: 18px;
+        font-size: 16px !important;
     }
 
-    #theme-icon {
-        width: 18px;
-        height: 18px;
-    }
-
-    #theme-icon svg {
-        width: 18px;
-        height: 18px;
+    .theme-menu li {
+        font-size: 14px;
     }
 }

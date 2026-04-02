@@ -33,11 +33,19 @@
             {{- end }}
             <div class="logo-switches">
                 
-                {{- if (not site.Params.disableThemeToggle) }}
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme" type="button">
-                    <span id="theme-icon"></span>
-                </button>
-                {{- end }}
+                <div class="theme-dropdown">
+                    <button id="theme-toggle" type="button" aria-label="Select theme" onclick="return false;">
+                        <span id="theme-label">Light</span>
+                        <span class="theme-caret">▾</span>
+                    </button>
+                
+                    <ul id="theme-menu" class="theme-menu" role="menu">
+                        <li data-theme="light" role="menuitem">Light</li>
+                        <li data-theme="dark" role="menuitem">Dark</li>
+                        <li data-theme="red" role="menuitem">Red</li>
+                        <li data-theme="blue" role="menuitem">Blue</li>
+                    </ul>
+                </div>
                 
                 {{- if (not site.Params.disableLangToggle) }}
                     {{- $lang := .Lang}}
