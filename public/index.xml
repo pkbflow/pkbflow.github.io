@@ -11,8 +11,78 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Apr 2026 21:10:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 22:30:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Kubernetes] Secret 기본</title>
+      <link>http://localhost:1313/posts/kubernetes/workload/05-secret/</link>
+      <pubDate>Sun, 19 Apr 2026 22:30:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kubernetes/workload/05-secret/</guid>
+      <description>Secret 개념과 민감 정보 관리 방법 정리</description>
+    </item>
+    <item>
+      <title>[Kubernetes] ConfigMap 기본</title>
+      <link>http://localhost:1313/posts/kubernetes/workload/04-configmap/</link>
+      <pubDate>Sun, 19 Apr 2026 22:20:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kubernetes/workload/04-configmap/</guid>
+      <description>ConfigMap 개념과 환경 변수 관리 방법 정리</description>
+    </item>
+    <item>
+      <title>[Kubernetes] Ingress 기본</title>
+      <link>http://localhost:1313/posts/kubernetes/workload/03-ingress/</link>
+      <pubDate>Sun, 19 Apr 2026 22:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kubernetes/workload/03-ingress/</guid>
+      <description>Ingress 개념과 외부 요청 라우팅 방법 정리</description>
+    </item>
+    <item>
+      <title>[Kubernetes] Service 기본</title>
+      <link>http://localhost:1313/posts/kubernetes/workload/02-service/</link>
+      <pubDate>Sun, 19 Apr 2026 22:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kubernetes/workload/02-service/</guid>
+      <description>Service 개념과 Pod 접근 방법 정리</description>
+    </item>
+    <item>
+      <title>[Kubernetes] Deployment 기본</title>
+      <link>http://localhost:1313/posts/kubernetes/workload/01-deployment/</link>
+      <pubDate>Sun, 19 Apr 2026 21:50:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kubernetes/workload/01-deployment/</guid>
+      <description>Deployment 개념과 Pod 관리 방법 정리</description>
+    </item>
+    <item>
+      <title>[Kubernetes] Pod 기본</title>
+      <link>http://localhost:1313/posts/kubernetes/pod/01-pod-basics/</link>
+      <pubDate>Sun, 19 Apr 2026 21:40:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kubernetes/pod/01-pod-basics/</guid>
+      <description>Pod 개념과 기본 사용 방법 정리</description>
+    </item>
+    <item>
+      <title>[Kubernetes] kubectl 기본 사용법</title>
+      <link>http://localhost:1313/posts/kubernetes/basics/04-kubectl-basic/</link>
+      <pubDate>Sun, 19 Apr 2026 21:30:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kubernetes/basics/04-kubectl-basic/</guid>
+      <description>kubectl 명령어와 기본 사용 방법 정리</description>
+    </item>
+    <item>
+      <title>[Kubernetes] Kubernetes Architecture</title>
+      <link>http://localhost:1313/posts/kubernetes/basics/03-kubernetes-architecture/</link>
+      <pubDate>Sun, 19 Apr 2026 21:20:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kubernetes/basics/03-kubernetes-architecture/</guid>
+      <description>Kubernetes 구조와 주요 구성 요소 정리</description>
+    </item>
+    <item>
+      <title>[Kubernetes] Container vs Kubernetes</title>
+      <link>http://localhost:1313/posts/kubernetes/basics/02-container-vs-kubernetes/</link>
+      <pubDate>Sun, 19 Apr 2026 21:10:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kubernetes/basics/02-container-vs-kubernetes/</guid>
+      <description>Docker와 Kubernetes의 차이와 역할 정리</description>
+    </item>
+    <item>
+      <title>[Kubernetes] Kubernetes란 무엇인가</title>
+      <link>http://localhost:1313/posts/kubernetes/basics/01-what-is-kubernetes/</link>
+      <pubDate>Sun, 19 Apr 2026 21:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kubernetes/basics/01-what-is-kubernetes/</guid>
+      <description>Kubernetes 개념과 왜 필요한지 정리</description>
+    </item>
     <item>
       <title>[PostgreSQL] EXPLAIN ANALYZE - 실행 계획 보는 법</title>
       <link>http://localhost:1313/posts/sql/postgresql/02-explain-analyze/</link>
@@ -91,13 +161,6 @@
       <description>SQL SELECT 기본 문법과 데이터 조회 방법 정리</description>
     </item>
     <item>
-      <title>[K8s] Pod 개념 정리</title>
-      <link>http://localhost:1313/posts/kubernetes/pod/01-pod-basics/</link>
-      <pubDate>Mon, 30 Mar 2026 18:48:13 +0900</pubDate>
-      <guid>http://localhost:1313/posts/kubernetes/pod/01-pod-basics/</guid>
-      <description>쿠버네티스 Pod의 개념과 구조, 동작 방식 정리</description>
-    </item>
-    <item>
       <title>[Kafka] Kafka 기본 개념</title>
       <link>http://localhost:1313/posts/dev/kafka/01-kafka-intro/</link>
       <pubDate>Mon, 30 Mar 2026 18:48:13 +0900</pubDate>
@@ -124,6 +187,13 @@
       <pubDate>Sun, 29 Mar 2026 21:50:00 +0900</pubDate>
       <guid>http://localhost:1313/posts/about/</guid>
       <description>기술 블로그를 시작하며 방향과 목표를 정리</description>
+    </item>
+    <item>
+      <title>example post</title>
+      <link>http://localhost:1313/posts/example-post/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/example-post/</guid>
+      <description>Desc Text.</description>
     </item>
     <item>
       <title></title>

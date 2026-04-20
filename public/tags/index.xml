@@ -11,8 +11,29 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Apr 2026 21:10:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 21:40:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubernetes</title>
+      <link>http://localhost:1313/tags/kubernetes/</link>
+      <pubDate>Sun, 19 Apr 2026 21:40:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pod</title>
+      <link>http://localhost:1313/tags/pod/</link>
+      <pubDate>Sun, 19 Apr 2026 21:40:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/pod/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>기초</title>
+      <link>http://localhost:1313/tags/%EA%B8%B0%EC%B4%88/</link>
+      <pubDate>Sun, 19 Apr 2026 21:40:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/%EA%B8%B0%EC%B4%88/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Explain Analyze</title>
       <link>http://localhost:1313/tags/explain-analyze/</link>
@@ -224,31 +245,10 @@
       <description></description>
     </item>
     <item>
-      <title>기초</title>
-      <link>http://localhost:1313/tags/%EA%B8%B0%EC%B4%88/</link>
-      <pubDate>Fri, 03 Apr 2026 21:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/tags/%EA%B8%B0%EC%B4%88/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>조회</title>
       <link>http://localhost:1313/tags/%EC%A1%B0%ED%9A%8C/</link>
       <pubDate>Fri, 03 Apr 2026 21:00:00 +0900</pubDate>
       <guid>http://localhost:1313/tags/%EC%A1%B0%ED%9A%8C/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Container</title>
-      <link>http://localhost:1313/tags/container/</link>
-      <pubDate>Mon, 30 Mar 2026 18:48:13 +0900</pubDate>
-      <guid>http://localhost:1313/tags/container/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>K8s</title>
-      <link>http://localhost:1313/tags/k8s/</link>
-      <pubDate>Mon, 30 Mar 2026 18:48:13 +0900</pubDate>
-      <guid>http://localhost:1313/tags/k8s/</guid>
       <description></description>
     </item>
     <item>
@@ -263,13 +263,6 @@
       <link>http://localhost:1313/tags/message-queue/</link>
       <pubDate>Mon, 30 Mar 2026 18:48:13 +0900</pubDate>
       <guid>http://localhost:1313/tags/message-queue/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pod</title>
-      <link>http://localhost:1313/tags/pod/</link>
-      <pubDate>Mon, 30 Mar 2026 18:48:13 +0900</pubDate>
-      <guid>http://localhost:1313/tags/pod/</guid>
       <description></description>
     </item>
     <item>
@@ -312,6 +305,13 @@
       <link>http://localhost:1313/tags/start/</link>
       <pubDate>Sun, 29 Mar 2026 21:50:00 +0900</pubDate>
       <guid>http://localhost:1313/tags/start/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/tags/first/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/tags/first/</guid>
       <description></description>
     </item>
   </channel>
