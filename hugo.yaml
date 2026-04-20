@@ -83,7 +83,7 @@ params:
   #   Title: "Hi there 👋"
   #   Content: Welcome to my blog
   homeInfoParams:
-    Title: "👋 Backend Study Log"
+    Title: "Backend Study Log"
     Content: SQL · Kubernetes · 코딩테스트를 기록하는 개발 블로그입니다.  
            공부한 내용을 이해 중심으로 정리합니다.
 
