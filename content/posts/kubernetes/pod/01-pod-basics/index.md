@@ -9,7 +9,7 @@ tags: ["kubernetes", "pod", "기초"]
 
 description: "Pod 개념과 기본 사용 방법 정리"
 toc: true
----------
+---
 
 # Pod 기본
 

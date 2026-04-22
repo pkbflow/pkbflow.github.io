@@ -9,7 +9,7 @@ tags: ["kubernetes", "secret", "workload"]
 
 description: "Secret 개념과 민감 정보 관리 방법 정리"
 toc: true
----------
+---
 
 # Secret 기본
 

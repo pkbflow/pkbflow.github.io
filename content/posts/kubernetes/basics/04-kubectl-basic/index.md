@@ -9,7 +9,7 @@ tags: ["kubernetes", "kubectl", "기초"]
 
 description: "kubectl 명령어와 기본 사용 방법 정리"
 toc: true
----------
+---
 
 # kubectl 기본 사용법
 

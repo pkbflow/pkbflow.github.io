@@ -9,7 +9,7 @@ tags: ["kubernetes", "configmap", "workload"]
 
 description: "ConfigMap 개념과 환경 변수 관리 방법 정리"
 toc: true
----------
+---
 
 # ConfigMap 기본
 

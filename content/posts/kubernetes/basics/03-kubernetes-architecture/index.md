@@ -9,7 +9,7 @@ tags: ["kubernetes", "architecture", "기초"]
 
 description: "Kubernetes 구조와 주요 구성 요소 정리"
 toc: true
----------
+---
 
 # Kubernetes Architecture
 

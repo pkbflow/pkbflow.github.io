@@ -9,7 +9,7 @@ tags: ["kubernetes", "docker", "기초"]
 
 description: "Docker와 Kubernetes의 차이와 역할 정리"
 toc: true
----------
+---
 
 # Container vs Kubernetes
 

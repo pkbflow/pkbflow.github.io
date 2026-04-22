@@ -9,7 +9,7 @@ tags: ["kubernetes", "deployment", "기초"]
 
 description: "Deployment 개념과 Pod 관리 방법 정리"
 toc: true
----------
+---
 
 # Deployment 기본
 

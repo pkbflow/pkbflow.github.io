@@ -9,7 +9,7 @@ tags: ["kubernetes", "기초", "입문"]
 
 description: "Kubernetes 개념과 왜 필요한지 정리"
 toc: true
----------
+---
 
 # Kubernetes란 무엇인가
 

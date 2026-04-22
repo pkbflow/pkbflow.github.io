@@ -9,7 +9,7 @@ tags: ["kubernetes", "ingress", "workload"]
 
 description: "Ingress 개념과 외부 요청 라우팅 방법 정리"
 toc: true
----------
+---
 
 # Ingress 기본
 
