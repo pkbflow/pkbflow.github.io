@@ -4,6 +4,9 @@ pagination:
   pagerSize: 5
 theme: PaperMod
 
+permalinks:
+  posts: /posts/:contentbasename/
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -37,7 +40,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -127,26 +130,22 @@ params:
     keys: ["title", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: about
+      name: About
+      url: /about/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: categories
+      name: Categories
+      url: /categories/
       weight: 20
-    - identifier: search
-      name: search
-      url: /search/
+    - identifier: tags
+      name: Tags
+      url: /tags/
       weight: 30
-    # - identifier: example
-    #   name: example.org
-    #   url: https://example.org
-    #   weight: 40
-    # - identifier: about
-    #   name: 소개
-    #   url: /about/
-    #   weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/sql/postgresql/06-index/</loc>
+    <loc>http://localhost:1313/posts/06-index/</loc>
     <lastmod>2026-04-21T22:50:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -38,7 +38,7 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-04-21T22:50:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sql/postgresql/05-explain-analyze/</loc>
+    <loc>http://localhost:1313/posts/05-explain-analyze/</loc>
     <lastmod>2026-04-21T22:40:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/analyze/</loc>
@@ -47,7 +47,7 @@
     <loc>http://localhost:1313/tags/explain/</loc>
     <lastmod>2026-04-21T22:40:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sql/postgresql/04-query-execution/</loc>
+    <loc>http://localhost:1313/posts/04-query-execution/</loc>
     <lastmod>2026-04-21T22:30:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/execution/</loc>
@@ -56,7 +56,7 @@
     <loc>http://localhost:1313/tags/query/</loc>
     <lastmod>2026-04-21T22:30:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sql/postgresql/03-architecture/</loc>
+    <loc>http://localhost:1313/posts/03-architecture/</loc>
     <lastmod>2026-04-21T22:20:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/architecture/</loc>
@@ -65,7 +65,7 @@
     <loc>http://localhost:1313/tags/database/</loc>
     <lastmod>2026-04-21T22:20:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sql/postgresql/02-install/</loc>
+    <loc>http://localhost:1313/posts/02-install/</loc>
     <lastmod>2026-04-21T22:10:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/install/</loc>
@@ -74,13 +74,13 @@
     <loc>http://localhost:1313/tags/setup/</loc>
     <lastmod>2026-04-21T22:10:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sql/postgresql/01-intro/</loc>
+    <loc>http://localhost:1313/posts/01-intro/</loc>
     <lastmod>2026-04-21T21:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/rdbms/</loc>
     <lastmod>2026-04-21T21:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kubernetes/workload/05-secret/</loc>
+    <loc>http://localhost:1313/posts/05-secret/</loc>
     <lastmod>2026-04-19T22:30:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/kubernetes/</loc>
@@ -98,19 +98,19 @@
     <loc>http://localhost:1313/tags/workload/</loc>
     <lastmod>2026-04-19T22:30:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kubernetes/workload/04-configmap/</loc>
+    <loc>http://localhost:1313/posts/04-configmap/</loc>
     <lastmod>2026-04-19T22:20:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/configmap/</loc>
     <lastmod>2026-04-19T22:20:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kubernetes/workload/03-ingress/</loc>
+    <loc>http://localhost:1313/posts/03-ingress/</loc>
     <lastmod>2026-04-19T22:10:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ingress/</loc>
     <lastmod>2026-04-19T22:10:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kubernetes/workload/02-service/</loc>
+    <loc>http://localhost:1313/posts/02-service/</loc>
     <lastmod>2026-04-19T22:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/networking/</loc>
@@ -119,7 +119,7 @@
     <loc>http://localhost:1313/tags/service/</loc>
     <lastmod>2026-04-19T22:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kubernetes/workload/01-deployment/</loc>
+    <loc>http://localhost:1313/posts/01-deployment/</loc>
     <lastmod>2026-04-19T21:50:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/deployment/</loc>
@@ -128,7 +128,7 @@
     <loc>http://localhost:1313/tags/%EA%B8%B0%EC%B4%88/</loc>
     <lastmod>2026-04-19T21:50:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kubernetes/pod/01-pod-basics/</loc>
+    <loc>http://localhost:1313/posts/01-pod-basics/</loc>
     <lastmod>2026-04-19T21:40:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/kubernetes/pod/</loc>
@@ -137,28 +137,28 @@
     <loc>http://localhost:1313/tags/pod/</loc>
     <lastmod>2026-04-19T21:40:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kubernetes/basics/04-kubectl-basic/</loc>
+    <loc>http://localhost:1313/posts/04-kubectl-basic/</loc>
     <lastmod>2026-04-19T21:30:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/kubectl/</loc>
     <lastmod>2026-04-19T21:30:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kubernetes/basics/03-kubernetes-architecture/</loc>
+    <loc>http://localhost:1313/posts/03-kubernetes-architecture/</loc>
     <lastmod>2026-04-19T21:20:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kubernetes/basics/02-container-vs-kubernetes/</loc>
+    <loc>http://localhost:1313/posts/02-container-vs-kubernetes/</loc>
     <lastmod>2026-04-19T21:10:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/docker/</loc>
     <lastmod>2026-04-19T21:10:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kubernetes/basics/01-what-is-kubernetes/</loc>
+    <loc>http://localhost:1313/posts/01-what-is-kubernetes/</loc>
     <lastmod>2026-04-19T21:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%EC%9E%85%EB%AC%B8/</loc>
     <lastmod>2026-04-19T21:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sql/basics/01-index/</loc>
+    <loc>http://localhost:1313/posts/01-index/</loc>
     <lastmod>2026-04-05T21:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/sql/basics/</loc>
@@ -170,7 +170,7 @@
     <loc>http://localhost:1313/tags/%EC%9D%B8%EB%8D%B1%EC%8A%A4/</loc>
     <lastmod>2026-04-05T21:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sql/practical/02-pagination/</loc>
+    <loc>http://localhost:1313/posts/02-pagination/</loc>
     <lastmod>2026-04-04T21:10:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/limit/</loc>
@@ -191,7 +191,7 @@
     <loc>http://localhost:1313/tags/%ED%8E%98%EC%9D%B4%EC%A7%95/</loc>
     <lastmod>2026-04-04T21:10:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sql/practical/01-sql-top5/</loc>
+    <loc>http://localhost:1313/posts/01-sql-top5/</loc>
     <lastmod>2026-04-04T21:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%EC%BF%BC%EB%A6%AC/</loc>
@@ -200,7 +200,7 @@
     <loc>http://localhost:1313/tags/%ED%8C%A8%ED%84%B4/</loc>
     <lastmod>2026-04-04T21:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sql/basics/08-having/</loc>
+    <loc>http://localhost:1313/posts/08-having/</loc>
     <lastmod>2026-04-03T22:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/group-by/</loc>
@@ -212,10 +212,10 @@
     <loc>http://localhost:1313/tags/%EC%A1%B0%EA%B1%B4/</loc>
     <lastmod>2026-04-03T22:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sql/basics/07-limit/</loc>
+    <loc>http://localhost:1313/posts/07-limit/</loc>
     <lastmod>2026-04-03T21:50:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sql/basics/06-order-by/</loc>
+    <loc>http://localhost:1313/posts/06-order-by/</loc>
     <lastmod>2026-04-03T21:40:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/asc/</loc>
@@ -230,7 +230,7 @@
     <loc>http://localhost:1313/tags/%EC%A0%95%EB%A0%AC/</loc>
     <lastmod>2026-04-03T21:40:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sql/basics/05-group-by/</loc>
+    <loc>http://localhost:1313/posts/05-group-by/</loc>
     <lastmod>2026-04-03T21:30:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/count/</loc>
@@ -242,7 +242,7 @@
     <loc>http://localhost:1313/tags/%EC%A7%91%EA%B3%84/</loc>
     <lastmod>2026-04-03T21:30:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sql/basics/04-join/</loc>
+    <loc>http://localhost:1313/posts/04-join/</loc>
     <lastmod>2026-04-03T21:20:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/inner-join/</loc>
@@ -254,7 +254,7 @@
     <loc>http://localhost:1313/tags/left-join/</loc>
     <lastmod>2026-04-03T21:20:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sql/basics/03-where/</loc>
+    <loc>http://localhost:1313/posts/03-where/</loc>
     <lastmod>2026-04-03T21:10:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/where/</loc>
@@ -263,7 +263,7 @@
     <loc>http://localhost:1313/tags/%ED%95%84%ED%84%B0%EB%A7%81/</loc>
     <lastmod>2026-04-03T21:10:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sql/basics/02-select/</loc>
+    <loc>http://localhost:1313/posts/02-select/</loc>
     <lastmod>2026-04-03T21:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/select/</loc>
@@ -272,10 +272,10 @@
     <loc>http://localhost:1313/tags/%EC%A1%B0%ED%9A%8C/</loc>
     <lastmod>2026-04-03T21:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/dev/kafka/01-kafka-intro/</loc>
+    <loc>http://localhost:1313/posts/01-kafka-intro/</loc>
     <lastmod>2026-03-30T18:48:13+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/dev/network/01-http-flow/</loc>
+    <loc>http://localhost:1313/posts/01-http-flow/</loc>
     <lastmod>2026-03-30T18:48:13+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/dev/</loc>
@@ -299,7 +299,7 @@
     <loc>http://localhost:1313/tags/stream/</loc>
     <lastmod>2026-03-30T18:48:13+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/coding-test/01-two-sum/</loc>
+    <loc>http://localhost:1313/posts/01-two-sum/</loc>
     <lastmod>2026-03-30T18:47:46+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/coding-test/</loc>
@@ -323,16 +323,16 @@
     <loc>http://localhost:1313/tags/start/</loc>
     <lastmod>2026-03-29T21:50:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-03-29T21:50:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/java/basics/01-jvm-memory-structure/</loc>
+    <loc>http://localhost:1313/posts/01-jvm-memory-structure/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/java/basics/02-string-vs-stringbuilder/</loc>
+    <loc>http://localhost:1313/posts/02-string-vs-stringbuilder/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/java/basics/03-equals-hashcode/</loc>
+    <loc>http://localhost:1313/posts/03-equals-hashcode/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/sql/practical/03-common-patterns/</loc>
+    <loc>http://localhost:1313/posts/03-common-patterns/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/java/basics/</loc>
   </url><url>
