@@ -2,253 +2,253 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PkbFlow | Backend Study Log</title>
-    <link>http://localhost:1313/</link>
+    <link>https://pkbflow.github.io/</link>
     <description>Recent content on PkbFlow | Backend Study Log</description>
     <image>
       <title>PkbFlow | Backend Study Log</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://pkbflow.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pkbflow.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 21 Apr 2026 22:50:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pkbflow.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[PostgreSQL] Index Scan vs Seq Scan - 인덱스가 있어도 안 쓰는 이유</title>
-      <link>http://localhost:1313/posts/06-index/</link>
+      <link>https://pkbflow.github.io/posts/06-index/</link>
       <pubDate>Tue, 21 Apr 2026 22:50:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/06-index/</guid>
+      <guid>https://pkbflow.github.io/posts/06-index/</guid>
       <description>PostgreSQL에서 Index Scan과 Seq Scan의 차이와 선택 기준 정리</description>
     </item>
     <item>
       <title>[PostgreSQL] EXPLAIN ANALYZE - 실행 계획 확인하기</title>
-      <link>http://localhost:1313/posts/05-explain-analyze/</link>
+      <link>https://pkbflow.github.io/posts/05-explain-analyze/</link>
       <pubDate>Tue, 21 Apr 2026 22:40:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/05-explain-analyze/</guid>
+      <guid>https://pkbflow.github.io/posts/05-explain-analyze/</guid>
       <description>EXPLAIN ANALYZE를 통해 PostgreSQL 실행 계획을 분석하는 방법</description>
     </item>
     <item>
       <title>[PostgreSQL] 쿼리 실행 과정 (Parser / Planner / Executor)</title>
-      <link>http://localhost:1313/posts/04-query-execution/</link>
+      <link>https://pkbflow.github.io/posts/04-query-execution/</link>
       <pubDate>Tue, 21 Apr 2026 22:30:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/04-query-execution/</guid>
+      <guid>https://pkbflow.github.io/posts/04-query-execution/</guid>
       <description>PostgreSQL에서 쿼리가 실행되는 과정과 내부 흐름 정리</description>
     </item>
     <item>
       <title>[PostgreSQL] PostgreSQL 아키텍처 기본 구조</title>
-      <link>http://localhost:1313/posts/03-architecture/</link>
+      <link>https://pkbflow.github.io/posts/03-architecture/</link>
       <pubDate>Tue, 21 Apr 2026 22:20:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/03-architecture/</guid>
+      <guid>https://pkbflow.github.io/posts/03-architecture/</guid>
       <description>PostgreSQL의 기본 아키텍처와 동작 구조 정리</description>
     </item>
     <item>
       <title>[PostgreSQL] PostgreSQL 설치 및 실행</title>
-      <link>http://localhost:1313/posts/02-install/</link>
+      <link>https://pkbflow.github.io/posts/02-install/</link>
       <pubDate>Tue, 21 Apr 2026 22:10:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/02-install/</guid>
+      <guid>https://pkbflow.github.io/posts/02-install/</guid>
       <description>PostgreSQL 설치부터 실행, 기본 접속까지 정리</description>
     </item>
     <item>
       <title>[PostgreSQL] PostgreSQL이란 무엇인가</title>
-      <link>http://localhost:1313/posts/01-intro/</link>
+      <link>https://pkbflow.github.io/posts/01-intro/</link>
       <pubDate>Tue, 21 Apr 2026 21:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/01-intro/</guid>
+      <guid>https://pkbflow.github.io/posts/01-intro/</guid>
       <description>PostgreSQL의 개념과 특징, 장단점 정리</description>
     </item>
     <item>
       <title>[Kubernetes] Secret 기본</title>
-      <link>http://localhost:1313/posts/05-secret/</link>
+      <link>https://pkbflow.github.io/posts/05-secret/</link>
       <pubDate>Sun, 19 Apr 2026 22:30:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/05-secret/</guid>
+      <guid>https://pkbflow.github.io/posts/05-secret/</guid>
       <description>Secret 개념과 민감 정보 관리 방법 정리</description>
     </item>
     <item>
       <title>[Kubernetes] ConfigMap 기본</title>
-      <link>http://localhost:1313/posts/04-configmap/</link>
+      <link>https://pkbflow.github.io/posts/04-configmap/</link>
       <pubDate>Sun, 19 Apr 2026 22:20:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/04-configmap/</guid>
+      <guid>https://pkbflow.github.io/posts/04-configmap/</guid>
       <description>ConfigMap 개념과 환경 변수 관리 방법 정리</description>
     </item>
     <item>
       <title>[Kubernetes] Ingress 기본</title>
-      <link>http://localhost:1313/posts/03-ingress/</link>
+      <link>https://pkbflow.github.io/posts/03-ingress/</link>
       <pubDate>Sun, 19 Apr 2026 22:10:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/03-ingress/</guid>
+      <guid>https://pkbflow.github.io/posts/03-ingress/</guid>
       <description>Ingress 개념과 외부 요청 라우팅 방법 정리</description>
     </item>
     <item>
       <title>[Kubernetes] Service 기본</title>
-      <link>http://localhost:1313/posts/02-service/</link>
+      <link>https://pkbflow.github.io/posts/02-service/</link>
       <pubDate>Sun, 19 Apr 2026 22:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/02-service/</guid>
+      <guid>https://pkbflow.github.io/posts/02-service/</guid>
       <description>Service 개념과 Pod 접근 방법 정리</description>
     </item>
     <item>
       <title>[Kubernetes] Deployment 기본</title>
-      <link>http://localhost:1313/posts/01-deployment/</link>
+      <link>https://pkbflow.github.io/posts/01-deployment/</link>
       <pubDate>Sun, 19 Apr 2026 21:50:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/01-deployment/</guid>
+      <guid>https://pkbflow.github.io/posts/01-deployment/</guid>
       <description>Deployment 개념과 Pod 관리 방법 정리</description>
     </item>
     <item>
       <title>[Kubernetes] Pod 기본</title>
-      <link>http://localhost:1313/posts/01-pod-basics/</link>
+      <link>https://pkbflow.github.io/posts/01-pod-basics/</link>
       <pubDate>Sun, 19 Apr 2026 21:40:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/01-pod-basics/</guid>
+      <guid>https://pkbflow.github.io/posts/01-pod-basics/</guid>
       <description>Pod 개념과 기본 사용 방법 정리</description>
     </item>
     <item>
       <title>[Kubernetes] kubectl 기본 사용법</title>
-      <link>http://localhost:1313/posts/04-kubectl-basic/</link>
+      <link>https://pkbflow.github.io/posts/04-kubectl-basic/</link>
       <pubDate>Sun, 19 Apr 2026 21:30:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/04-kubectl-basic/</guid>
+      <guid>https://pkbflow.github.io/posts/04-kubectl-basic/</guid>
       <description>kubectl 명령어와 기본 사용 방법 정리</description>
     </item>
     <item>
       <title>[Kubernetes] Kubernetes Architecture</title>
-      <link>http://localhost:1313/posts/03-kubernetes-architecture/</link>
+      <link>https://pkbflow.github.io/posts/03-kubernetes-architecture/</link>
       <pubDate>Sun, 19 Apr 2026 21:20:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/03-kubernetes-architecture/</guid>
+      <guid>https://pkbflow.github.io/posts/03-kubernetes-architecture/</guid>
       <description>Kubernetes 구조와 주요 구성 요소 정리</description>
     </item>
     <item>
       <title>[Kubernetes] Container vs Kubernetes</title>
-      <link>http://localhost:1313/posts/02-container-vs-kubernetes/</link>
+      <link>https://pkbflow.github.io/posts/02-container-vs-kubernetes/</link>
       <pubDate>Sun, 19 Apr 2026 21:10:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/02-container-vs-kubernetes/</guid>
+      <guid>https://pkbflow.github.io/posts/02-container-vs-kubernetes/</guid>
       <description>Docker와 Kubernetes의 차이와 역할 정리</description>
     </item>
     <item>
       <title>[Kubernetes] Kubernetes란 무엇인가</title>
-      <link>http://localhost:1313/posts/01-what-is-kubernetes/</link>
+      <link>https://pkbflow.github.io/posts/01-what-is-kubernetes/</link>
       <pubDate>Sun, 19 Apr 2026 21:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/01-what-is-kubernetes/</guid>
+      <guid>https://pkbflow.github.io/posts/01-what-is-kubernetes/</guid>
       <description>Kubernetes 개념과 왜 필요한지 정리</description>
     </item>
     <item>
       <title>[SQL] INDEX 기본 개념 - 왜 필요한가</title>
-      <link>http://localhost:1313/posts/01-index/</link>
+      <link>https://pkbflow.github.io/posts/01-index/</link>
       <pubDate>Sun, 05 Apr 2026 21:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/01-index/</guid>
+      <guid>https://pkbflow.github.io/posts/01-index/</guid>
       <description>SQL 인덱스의 개념과 필요성, 기본 동작 원리 정리</description>
     </item>
     <item>
       <title>[SQL] 게시판 페이징 쿼리 제대로 구현하기</title>
-      <link>http://localhost:1313/posts/02-pagination/</link>
+      <link>https://pkbflow.github.io/posts/02-pagination/</link>
       <pubDate>Sat, 04 Apr 2026 21:10:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/02-pagination/</guid>
+      <guid>https://pkbflow.github.io/posts/02-pagination/</guid>
       <description>게시판에서 사용하는 페이징 쿼리 구현 방법과 LIMIT, OFFSET 활용</description>
     </item>
     <item>
       <title>[SQL] 실무에서 자주 쓰는 SQL TOP 5</title>
-      <link>http://localhost:1313/posts/01-sql-top5/</link>
+      <link>https://pkbflow.github.io/posts/01-sql-top5/</link>
       <pubDate>Sat, 04 Apr 2026 21:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/01-sql-top5/</guid>
+      <guid>https://pkbflow.github.io/posts/01-sql-top5/</guid>
       <description>실무에서 자주 사용하는 SQL 쿼리 패턴 5가지 정리</description>
     </item>
     <item>
       <title>[SQL] HAVING - 그룹 조건 필터링</title>
-      <link>http://localhost:1313/posts/08-having/</link>
+      <link>https://pkbflow.github.io/posts/08-having/</link>
       <pubDate>Fri, 03 Apr 2026 22:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/08-having/</guid>
+      <guid>https://pkbflow.github.io/posts/08-having/</guid>
       <description>HAVING을 사용한 그룹 결과 조건 필터링</description>
     </item>
     <item>
       <title>[SQL] LIMIT - 조회 개수 제한</title>
-      <link>http://localhost:1313/posts/07-limit/</link>
+      <link>https://pkbflow.github.io/posts/07-limit/</link>
       <pubDate>Fri, 03 Apr 2026 21:50:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/07-limit/</guid>
+      <guid>https://pkbflow.github.io/posts/07-limit/</guid>
       <description>LIMIT과 OFFSET을 사용한 데이터 조회 개수 제한</description>
     </item>
     <item>
       <title>[SQL] ORDER BY - 데이터 정렬</title>
-      <link>http://localhost:1313/posts/06-order-by/</link>
+      <link>https://pkbflow.github.io/posts/06-order-by/</link>
       <pubDate>Fri, 03 Apr 2026 21:40:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/06-order-by/</guid>
+      <guid>https://pkbflow.github.io/posts/06-order-by/</guid>
       <description>ORDER BY를 사용한 데이터 정렬 방법 정리</description>
     </item>
     <item>
       <title>[SQL] GROUP BY - 데이터 그룹화와 집계</title>
-      <link>http://localhost:1313/posts/05-group-by/</link>
+      <link>https://pkbflow.github.io/posts/05-group-by/</link>
       <pubDate>Fri, 03 Apr 2026 21:30:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/05-group-by/</guid>
+      <guid>https://pkbflow.github.io/posts/05-group-by/</guid>
       <description>GROUP BY를 사용한 데이터 그룹화와 집계 함수 정리</description>
     </item>
     <item>
       <title>[SQL] JOIN - 여러 테이블 조회</title>
-      <link>http://localhost:1313/posts/04-join/</link>
+      <link>https://pkbflow.github.io/posts/04-join/</link>
       <pubDate>Fri, 03 Apr 2026 21:20:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/04-join/</guid>
+      <guid>https://pkbflow.github.io/posts/04-join/</guid>
       <description>SQL JOIN 개념과 INNER JOIN, LEFT JOIN 정리</description>
     </item>
     <item>
       <title>[SQL] WHERE 절 - 조건으로 데이터 필터링</title>
-      <link>http://localhost:1313/posts/03-where/</link>
+      <link>https://pkbflow.github.io/posts/03-where/</link>
       <pubDate>Fri, 03 Apr 2026 21:10:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/03-where/</guid>
+      <guid>https://pkbflow.github.io/posts/03-where/</guid>
       <description>WHERE 절을 사용한 조건 검색과 연산자 정리</description>
     </item>
     <item>
       <title>[SQL] SELECT 기본 - 데이터 조회</title>
-      <link>http://localhost:1313/posts/02-select/</link>
+      <link>https://pkbflow.github.io/posts/02-select/</link>
       <pubDate>Fri, 03 Apr 2026 21:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/02-select/</guid>
+      <guid>https://pkbflow.github.io/posts/02-select/</guid>
       <description>SQL SELECT 기본 문법과 데이터 조회 방법 정리</description>
     </item>
     <item>
       <title>[Kafka] Kafka 기본 개념</title>
-      <link>http://localhost:1313/posts/01-kafka-intro/</link>
+      <link>https://pkbflow.github.io/posts/01-kafka-intro/</link>
       <pubDate>Mon, 30 Mar 2026 18:48:13 +0900</pubDate>
-      <guid>http://localhost:1313/posts/01-kafka-intro/</guid>
+      <guid>https://pkbflow.github.io/posts/01-kafka-intro/</guid>
       <description>Kafka의 기본 개념과 구조 정리</description>
     </item>
     <item>
       <title>[Kafka] Kafka 기본 개념</title>
-      <link>http://localhost:1313/posts/01-http-flow/</link>
+      <link>https://pkbflow.github.io/posts/01-http-flow/</link>
       <pubDate>Mon, 30 Mar 2026 18:48:13 +0900</pubDate>
-      <guid>http://localhost:1313/posts/01-http-flow/</guid>
+      <guid>https://pkbflow.github.io/posts/01-http-flow/</guid>
       <description>Kafka의 기본 개념과 구조 정리</description>
     </item>
     <item>
       <title>[PS] 프로그래머스 - 타겟 넘버</title>
-      <link>http://localhost:1313/posts/01-two-sum/</link>
+      <link>https://pkbflow.github.io/posts/01-two-sum/</link>
       <pubDate>Mon, 30 Mar 2026 18:47:46 +0900</pubDate>
-      <guid>http://localhost:1313/posts/01-two-sum/</guid>
+      <guid>https://pkbflow.github.io/posts/01-two-sum/</guid>
       <description>DFS로 푸는 타겟 넘버 문제 풀이</description>
     </item>
     <item>
       <title>기술 블로그 시작 - SQL, Kubernetes, 코딩테스트</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://pkbflow.github.io/about/</link>
       <pubDate>Sun, 29 Mar 2026 21:50:00 +0900</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://pkbflow.github.io/about/</guid>
       <description>기술 블로그를 시작하며 방향과 목표를 정리</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/01-jvm-memory-structure/</link>
+      <link>https://pkbflow.github.io/posts/01-jvm-memory-structure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/01-jvm-memory-structure/</guid>
+      <guid>https://pkbflow.github.io/posts/01-jvm-memory-structure/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/02-string-vs-stringbuilder/</link>
+      <link>https://pkbflow.github.io/posts/02-string-vs-stringbuilder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/02-string-vs-stringbuilder/</guid>
+      <guid>https://pkbflow.github.io/posts/02-string-vs-stringbuilder/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/03-equals-hashcode/</link>
+      <link>https://pkbflow.github.io/posts/03-equals-hashcode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/03-equals-hashcode/</guid>
+      <guid>https://pkbflow.github.io/posts/03-equals-hashcode/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/03-common-patterns/</link>
+      <link>https://pkbflow.github.io/posts/03-common-patterns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/03-common-patterns/</guid>
+      <guid>https://pkbflow.github.io/posts/03-common-patterns/</guid>
       <description></description>
     </item>
   </channel>
