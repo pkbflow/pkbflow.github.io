@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://pkbflow.github.io/sitemap.xml
